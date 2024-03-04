@@ -17,7 +17,7 @@
                             <label class="form-label">codigo</label>
                             <input class="form-control my-3" type="text" name="codigo" placeholder="codigo">
                         </div>
-                        <button class="g-recaptcha btn btn-primary my-3" data-sitekey="6Lc5JGApAAAAAKBKgB9pqBH9eyUqRpg4U6q050v7"
+                        <button class="g-recaptcha btn btn-primary my-3" data-sitekey="6Les54gpAAAAAEfXraux331noDksMHtg1uG4KJxT"
                             data-callback='onSubmit' data-action='submit'>verificar</button>
                     </form>
                 </div>
