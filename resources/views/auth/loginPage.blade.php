@@ -25,7 +25,7 @@
                             <input class="form-control mt-3" type="password" name="password" placeholder="Escribe tu contraseña">
                         </div>
                         <button class="g-recaptcha btn btn-primary"
-                        data-sitekey="6Les54gpAAAAAEfXraux331noDksMHtg1uG4KJxT"
+                        data-sitekey="6LcvcpMpAAAAAAieJaUTKx7qBTzO9aJ_8nL3LX_e"
                         data-callback='onSubmit'
                         data-action='submit'>Iniciar Sesión</button>
                     </form>

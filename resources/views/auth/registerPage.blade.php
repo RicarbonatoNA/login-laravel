@@ -36,7 +36,7 @@
                                 placeholder="Escribe tu contraseña">
                         </div>
                         <button class="g-recaptcha btn btn-success"
-                        data-sitekey="6Les54gpAAAAAEfXraux331noDksMHtg1uG4KJxT"
+                        data-sitekey="6LcvcpMpAAAAAAieJaUTKx7qBTzO9aJ_8nL3LX_e"
                         data-callback='onSubmit'
                         data-action='submit'>Registrarme</button>
                     </form>
